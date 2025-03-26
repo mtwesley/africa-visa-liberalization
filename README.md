@@ -49,8 +49,16 @@ This project applies regression and network analysis to explore the relationship
 
 ## Outputs
 
-- `output/dataset.csv` — unified country-level dataset
-- `output/subsaharan_network.png` — network of visa access in Sub-Saharan Africa
+- `output/dataset.csv` — Unified country-level dataset (cleaned and merged)
+- `output/sub_saharan_africa_network.png` — Network of visa access in Sub-Saharan Africa (2023)
+- `output/avoi_score_north_africa_2023.png` — Visa Openness Score by Country: North Africa (2023)
+- `output/avoi_score_sub_saharan_africa_2023.png` — Visa Openness Score by Country: Sub-Saharan Africa (2023)
+- `output/correlations_2019.png` — Correlation heatmap of mobility and ranking metrics (2019)
+- `output/correlations_2023.png` — Correlation heatmap of mobility and ranking metrics (2023)
+- `output/countries_by_income.png` — Histogram of countries by income group
+- `output/countries_by_region.png` — Histogram of countries by region
+- `output/henley_score_2025.png` — Henley Passport Index scores by country (2025)
+- `output/passport_index_pagerank_2023.png` — Scatterplot of Passport PageRank vs. Log GDP per capita (2023)
 
 
 ## Data Sources

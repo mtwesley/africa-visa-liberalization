@@ -1,0 +1,200 @@
+Rank,Passport,ISO3,Visa-free score
+1,Singapore,SGP,193
+2,Japan,JPN,190
+3,South Korea,KOR,189
+3,Denmark,DNK,189
+4,Finland,FIN,188
+4,France,FRA,188
+4,Germany,DEU,188
+4,Ireland,IRL,188
+4,Italy,ITA,188
+4,Spain,ESP,188
+5,Austria,AUT,187
+5,Belgium,BEL,187
+5,Luxembourg,LUX,187
+5,Netherlands,NLD,187
+5,Norway,NOR,187
+5,Portugal,PRT,187
+5,Sweden,SWE,187
+6,Greece,GRC,186
+6,New Zealand,NZL,186
+6,Switzerland,CHE,186
+7,Australia,AUS,185
+7,United Kingdom,GBR,185
+8,Canada,CAN,184
+8,Czechia,CZE,184
+8,Hungary,HUN,184
+8,Malta,MLT,184
+8,Poland,POL,184
+9,Estonia,EST,183
+9,United Arab Emirates,ARE,183
+10,Croatia,HRV,182
+10,Latvia,LVA,182
+10,Slovakia,SVK,182
+10,Slovenia,SVN,182
+10,United States,USA,182
+11,Iceland,ISL,181
+11,Lithuania,LTU,181
+12,Liechtenstein,LIE,180
+12,Malaysia,MYS,180
+13,Cyprus,CYP,178
+13,Romania,ROU,178
+14,Bulgaria,BGR,177
+14,Monaco,MCO,177
+15,Chile,CHL,175
+16,Andorra,AND,171
+17,San Marino,SMR,170
+18,Argentina,ARG,169
+18,Brazil,BRA,169
+18,Hong Kong (SAR China),HKG,169
+18,Israel,ISR,169
+19,Brunei,BRN,164
+20,Barbados,BRB,163
+21,Bahamas,BHS,159
+22,Mexico,MEX,158
+23,Seychelles,SYC,156
+23,St. Vincent and the Grenadines,VCT,156
+23,Uruguay,URY,156
+24,St. Kitts and Nevis,KNA,155
+25,Vatican City,VAT,154
+26,Antigua and Barbuda,ATG,152
+27,Mauritius,MUS,150
+27,Trinidad and Tobago,TTO,150
+28,Costa Rica,CRI,149
+29,Panama,PAN,148
+30,Grenada,GRD,147
+30,Ukraine,UKR,147
+31,St. Lucia,LCA,146
+32,Paraguay,PRY,145
+33,Dominica,DMA,144
+33,Macao (SAR China),MAC,144
+34,Peru,PER,142
+35,Taiwan (Chinese Taipei),TWN,139
+36,Serbia,SRB,138
+37,El Salvador,SLV,135
+38,Guatemala,GTM,134
+38,Solomon Islands,SLB,134
+39,Colombia,COL,132
+39,Honduras,HND,132
+40,North Macedonia,MKD,129
+40,Samoa,WSM,129
+40,Tonga,TON,129
+41,Marshall Islands,MHL,128
+41,Montenegro,MNE,128
+42,Nicaragua,NIC,127
+42,Tuvalu,TUV,127
+43,Bosnia and Herzegovina,BIH,123
+43,Kiribati,KIR,123
+43,Micronesia,FSM,123
+43,Palau,PLW,123
+44,Albania,ALB,122
+44,Georgia,GEO,122
+45,Moldova,MDA,121
+46,Venezuela,VEN,119
+47,Russian Federation,RUS,114
+47,Türkiye,TUR,114
+48,Qatar,QAT,111
+49,South Africa,ZAF,104
+50,Belize,BLZ,102
+51,Kuwait,KWT,98
+52,Timor-Leste,TLS,96
+53,Ecuador,ECU,94
+54,Maldives,MDV,93
+55,Guyana,GUY,91
+55,Vanuatu,VUT,91
+56,Fiji,FJI,90
+57,Jamaica,JAM,88
+58,Bahrain,BHR,87
+58,Nauru,NRU,87
+59,Botswana,BWA,86
+59,Papua New Guinea,PNG,86
+59,Saudi Arabia,SAU,86
+60,Oman,OMN,85
+61,China,CHN,83
+62,Belarus,BLR,80
+62,Kosovo,XKX,80
+62,Namibia,NAM,80
+62,Thailand,THA,80
+63,Bolivia,BOL,78
+64,Suriname,SUR,77
+65,Lesotho,LSO,76
+66,Kazakhstan,KAZ,75
+66,Eswatini,SWZ,75
+67,Dominican Republic,DOM,74
+67,Malawi,MWI,74
+68,Indonesia,IDN,73
+68,Morocco,MAR,73
+69,Kenya,KEN,72
+70,Tanzania,TZA,71
+70,The Gambia,GMB,71
+71,Azerbaijan,AZE,70
+72,Uganda,UGA,69
+73,Zambia,ZMB,68
+74,Armenia,ARM,67
+74,Benin,BEN,67
+74,Cape Verde Islands,CPV,67
+74,Tunisia,TUN,67
+75,Ghana,GHA,66
+76,Mongolia,MNG,65
+76,Philippines,PHL,65
+76,Sierra Leone,SLE,65
+77,Rwanda,RWA,64
+77,Zimbabwe,ZWE,64
+78,Kyrgyzstan,KGZ,63
+78,Mozambique,MOZ,63
+79,Sao Tome and Principe,STP,61
+79,Uzbekistan,UZB,61
+80,Burkina Faso,BFA,60
+80,Cuba,CUB,60
+80,Togo,TGO,60
+81,Côte d'Ivoire,CIV,59
+81,Gabon,GAB,59
+81,Madagascar,MDG,59
+82,Guinea,GIN,58
+82,Mauritania,MRT,58
+82,Senegal,SEN,58
+83,India,IND,57
+83,Niger,NER,57
+84,Algeria,DZA,56
+84,Equatorial Guinea,GNQ,56
+85,Tajikistan,TJK,55
+85,Guinea-Bissau,GNB,55
+85,Mali,MLI,55
+86,Cambodia,KHM,52
+86,Central African Republic,CAF,52
+86,Chad,TCD,52
+87,Comoros,COM,51
+87,Haiti,HTI,51
+87,Bhutan,BTN,51
+87,Jordan,JOR,51
+87,Liberia,LBR,51
+87,Vietnam,VNM,51
+88,Egypt,EGY,50
+89,Angola,AGO,49
+89,Burundi,BDI,49
+90,Cameroon,CMR,48
+90,Congo (Rep.),COG,48
+90,Turkmenistan,TKM,48
+90,Laos,LAO,48
+91,Djibouti,DJI,47
+92,Ethiopia,ETH,45
+92,Myanmar,MMR,45
+93,Nigeria,NGA,44
+93,Congo (Dem. Rep.),COD,44
+93,Lebanon,LBN,44
+94,South Sudan,SSD,43
+95,Iran,IRN,42
+95,Sri Lanka,LKA,42
+96,Sudan,SDN,40
+97,Eritrea,ERI,39
+97,North Korea,PRK,39
+98,Bangladesh,BGD,38
+98,Libya,LBY,38
+99,Palestinian Territory,PSE,37
+100,Nepal,NPL,36
+101,Somalia,SOM,33
+102,Pakistan,PAK,32
+102,Yemen,YEM,32
+103,Iraq,IRQ,30
+104,Syria,SYR,27
+105,Afghanistan,AFG,25

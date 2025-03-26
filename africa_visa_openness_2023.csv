@@ -1,0 +1,55 @@
+Country,No visa required,Visa on arrival,Visa required,Score,Rank,ISO3
+Benin,53,0,0,1.0,1,BEN
+"Gambia, The",53,0,0,1.0,1,GMB
+Seychelles,53,0,0,1.0,1,SYC
+Rwanda,53,0,0,1.0,1,RWA
+Ghana,25,26,2,0.864,5,GHA
+Nigeria,17,36,0,0.864,5,NGA
+Guinea-Bissau,13,40,0,0.849,7,GNB
+Cabo Verde,16,36,1,0.845,8,CPV
+Togo,15,37,1,0.842,9,TGO
+Mauritania,9,44,0,0.834,10,MRT
+Mauritius,27,21,5,0.826,11,MUS
+Burundi,6,47,0,0.823,12,BDI
+Mozambique,11,40,2,0.811,13,MOZ
+Comoros,0,53,0,0.8,14,COM
+Djibouti,0,53,0,0.8,14,DJI
+Senegal,24,23,6,0.8,14,SEN
+Madagascar,0,52,1,0.785,17,MDG
+Somalia,0,52,1,0.785,17,SOM
+Ethiopia,2,48,3,0.762,19,ETH
+Tanzania,19,22,12,0.691,20,TZA
+Namibia,13,26,14,0.638,21,NAM
+Sierra Leone,13,17,23,0.502,22,SLE
+Burkina Faso,17,11,25,0.487,23,BFA
+Zimbabwe,17,10,26,0.472,24,ZWE
+Malawi,15,11,27,0.449,25,MWI
+Zambia,14,11,28,0.43,26,ZMB
+Côte d'Ivoire,22,0,31,0.415,27,CIV
+Mali,20,2,31,0.408,28,MLI
+Kenya,21,0,32,0.396,29,KEN
+Tunisia,20,0,33,0.377,30,TUN
+Uganda,20,0,33,0.377,30,UGA
+Guinea,19,0,34,0.358,32,GIN
+South Africa,19,0,34,0.358,32,ZAF
+Niger,18,0,35,0.34,34,NER
+Botswana,17,0,36,0.321,35,BWA
+Eswatini,17,0,36,0.321,35,SWZ
+Lesotho,16,0,37,0.302,37,LSO
+Chad,14,1,38,0.279,38,TCD
+Liberia,14,0,39,0.264,39,LBR
+"Congo, Republic",5,8,40,0.215,40,COG
+Angola,10,0,43,0.189,41,AGO
+Central African Republic,9,0,44,0.17,42,CAF
+Gabon,9,0,44,0.17,42,GAB
+Morocco,8,0,45,0.151,44,MAR
+Cameroon,7,0,46,0.132,45,CMR
+São Tomé and Principe,7,0,46,0.132,45,STP
+"Congo, Democratic Republic",4,3,46,0.121,47,COD
+Algeria,6,0,47,0.113,48,DZA
+Egypt,0,7,46,0.106,49,EGY
+South Sudan,3,2,48,0.087,50,SSD
+Eritrea,1,2,50,0.049,51,ERI
+Equatorial Guinea,2,0,51,0.038,52,GNQ
+Sudan,0,2,51,0.03,53,SDN
+Libya,1,0,52,0.019,54,LBY

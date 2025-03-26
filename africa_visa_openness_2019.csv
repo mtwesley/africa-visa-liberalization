@@ -1,0 +1,55 @@
+Country,No visa required,Visa on arrival,Visa required,Score,Rank,ISO3
+Seychelles,53,0,0,1.0,1,SYC
+Benin,53,0,0,1.0,1,BEN
+Senegal,22,31,0,0.883,3,SEN
+Rwanda,17,36,0,0.864,4,RWA
+Ghana,18,34,1,0.853,5,GHA
+Uganda,18,34,1,0.853,5,UGA
+Guinea Bissau,14,39,0,0.853,5,GNB
+Cabo Verde,16,36,1,0.845,8,CPV
+Togo,14,38,1,0.838,9,TGO
+Mauritania,9,44,0,0.834,10,MRT
+Mozambique,9,44,0,0.834,10,MOZ
+Mauritius,27,21,5,0.826,12,MUS
+Kenya,18,32,3,0.823,13,KEN
+Comoros,0,53,0,0.8,14,COM
+Madagascar,0,53,0,0.8,14,MDG
+Somalia,0,53,0,0.8,14,SOM
+Djibouti,0,52,1,0.785,17,DJI
+Ethiopia,2,49,2,0.777,18,ETH
+Tanzania,16,25,12,0.679,19,TZA
+Gambia,28,0,25,0.528,20,GMB
+Zimbabwe,17,10,26,0.472,21,ZWE
+Burkina Faso,16,11,26,0.468,22,BFA
+Malawi,15,11,27,0.449,23,MWI
+Zambia,14,11,28,0.43,24,ZMB
+Guinea,22,0,31,0.415,25,GIN
+Mali,20,2,31,0.408,26,MLI
+Côte d’Ivoire,21,0,32,0.396,27,CIV
+Tunisia,21,0,32,0.396,27,TUN
+Niger,10,1,35,0.34,29,NER
+Nigeria,17,1,35,0.336,30,NGA
+Botswana,17,0,36,0.321,31,BWA
+Eswatini,17,0,36,0.321,31,SWZ
+Sierra Leone,15,2,36,0.313,33,SLE
+Angola,10,7,36,0.294,34,AGO
+Lesotho,15,0,38,0.283,35,LSO
+South Africa,15,0,38,0.283,35,ZAF
+CAR,14,0,39,0.264,37,CAF
+Liberia,14,0,39,0.264,37,LBR
+Chad,13,1,39,0.26,39,TCD
+Namibia,13,0,40,0.245,40,NAM
+Congo Republic,5,8,40,0.215,41,COG
+Gabon,9,0,44,0.17,42,GAB
+São Tomé and Príncipe,8,0,45,0.151,43,STP
+Cameroon,7,0,46,0.132,44,CMR
+DRC,4,3,46,0.121,45,COD
+Algeria,6,0,47,0.113,46,DZA
+Burundi,6,0,47,0.113,46,BDI
+Morocco,6,0,47,0.113,46,MAR
+Egypt,0,5,48,0.075,49,EGY
+South Sudan,0,5,48,0.075,49,SSD
+Eritrea,1,2,50,0.049,51,ERI
+Sudan,0,2,51,0.03,52,SDN
+Libya,1,0,52,0.019,53,LBY
+Equatorial Guinea,0,0,53,0.0,54,GNQ

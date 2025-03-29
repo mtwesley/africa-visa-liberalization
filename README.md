@@ -1,4 +1,4 @@
-# Africa Visa Liberation
+# Africa Visa Liberalization
 
 This project applies regression and network analysis to explore the relationship between visa openness, passport power, and economic development across African countries, with a focus on Sub-Saharan Africa. It combines datasets on:
 
